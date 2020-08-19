@@ -1,0 +1,2 @@
+# Syst-me-de-recommandation-pour-l-optimisation-des-trajets-monomodaux
+Le projet consiste à réaliser un système de recommandation pour l'optimisation des trajets monomodaux en utilisant les technique de Machine et Deep Learning. Alors l'utilisateur remplit la source, la destination, la date et l'heure de départ. Après le système cherche dans sa base de données les courses correspondante à ce trajet et il applique le modèle prédictif afin de prévoir la qualité d'un trajet 
